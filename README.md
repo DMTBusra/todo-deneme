@@ -5,9 +5,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
+   
      | 
     <a href="https://{your-url-to-the-solution}">
       Project
@@ -20,7 +18,7 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
+
 - [Built With](#built-with)
 - [Features](#features)
 - [How to use](#how-to-use)
@@ -29,9 +27,7 @@
 
 <!-- OVERVIEW -->
 
-## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
 ### Built With
 
@@ -44,12 +40,9 @@
 
 ## How To Use
 
-<!-- This is an example, please update according to your application -->
 
-To clone and run this application, you'll need [Git](https://git-scm.com) 
-```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/DMTBusra/todo-deneme.git
 
 # Install dependencies
     $ python -m venv env
@@ -68,8 +61,7 @@ $ git clone https://github.com/your-user-name/your-project-name
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub https://github.com/DMTBusra
 
-- Linkedin [@your-linkedin](https://{linkedin.com/your-username})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Linkedin https://www.linkedin.com/in/busra-demet-930405217/
+
