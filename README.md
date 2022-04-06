@@ -7,9 +7,8 @@
   <h3>
    
      | 
-    <a href="https://{your-url-to-the-solution}">
       Project
-    </a>
+   
  
   </h3>
 </div>
