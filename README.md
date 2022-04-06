@@ -3,15 +3,7 @@
 <h1 align="center">ToDo App</h1>
 
 
-<div align="center">
-  <h3>
-   
-     | 
-      Project
-   
- 
-  </h3>
-</div>
+
 
 <!-- TABLE OF CONTENTS -->
 
